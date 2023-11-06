@@ -1,0 +1,5 @@
+matplotlib
+ipympl
+numpy
+pandas
+
